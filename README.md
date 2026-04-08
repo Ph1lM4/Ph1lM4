@@ -5,7 +5,9 @@ Design-trained operator who builds. 15 years across industrial design, venture b
 ## What I'm Building
 
 - **[Nexalps](https://nexalps.com)** — Fractional leadership & venture building for startups, scale-ups, and corporates in DACH
-- **[AI Jobs Map Europe](https://github.com/Ph1lM4/ai-job-impact-europe)** — Mapping the AI job landscape across Europe
+- **AI × Labour Market Europe** — 7-part research series on AI's impact on European jobs
+  - [Part 1: AI Exposure Map](https://github.com/Ph1lM4/ai-job-impact-europe) — AI exposure scores for 130+ occupations across 36 countries ([live](https://ai-exposure.nexalps.com))
+  - [Part 2: Job Market Intelligence](https://github.com/Ph1lM4/job-market-europe) — Hiring trends, salary data & AI premiums for 9 tech roles across 34 countries ([live](https://job-market.nexalps.com))
 - **Founder OS** — Productized AI operating system for entrepreneurial decision-making, incl. [psychometric founder assessment](https://assess.theventure.agency)
 - **Dental Ops AI** — AI-powered practice automation for healthcare providers
 - **DayEngine** — Science-based day and energy optimisation
