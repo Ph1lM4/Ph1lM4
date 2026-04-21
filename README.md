@@ -19,10 +19,6 @@ Design-trained operator who builds. 15 years across industrial design, venture b
 120 Ventures (CEO) · Valora Digital (HoP) · Oysterlab/Alpiq (Co-founder) · Consulteer (Studio Lead / Advisory Board)  
 Austrian State Prize in Design · James Dyson Award (National Winner) · Guest Lecturer @ HSG, ZHdK, Uni Bern
 
-## Stack
-
-`Python` `Claude Code` `Cursor` `OpenClaw` `LangChain` `ChromaDB` `n8n` `React` `Node`
-
 ---
 
 📍 Zurich · [nexalps.com](https://nexalps.com) · [LinkedIn](https://linkedin.com/in/pmaul)
