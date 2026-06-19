@@ -1,6 +1,6 @@
 # Hi, I'm Phil 👋
 
-Design-trained operator who builds. 15 years across industrial design, venture building, and executive leadership. Now building AI-native, hands-on: strategy to code.
+Design-trained operator who builds. 15 years across industrial design, venture building, and executive leadership. Now building AI-native, hands-on across strategy and validation to code.
 
 ## What I'm Building
 
